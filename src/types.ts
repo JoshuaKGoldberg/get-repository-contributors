@@ -1,5 +1,5 @@
-export interface GreetOptions {
-	logger?: (message: string) => void;
-	message: string;
-	times?: number;
+export interface GetRepositoryContributorsOptions {
+	after: number;
+	discordToken: string;
+	guildId: string;
 }

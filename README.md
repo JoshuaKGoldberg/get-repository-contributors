@@ -18,14 +18,12 @@
 
 ## Usage
 
+> Work-in-progress.
+> Mostly not implemented yet.
+> Check back later.
+
 ```shell
-npm i get-repository-contributors
-```
-
-```ts
-import { greet } from "get-repository-contributors";
-
-greet("Hello, world! 💖");
+node --env-file .env lib/index.js
 ```
 
 ## Contributors
